@@ -1,6 +1,6 @@
 [
     {
-        "remote":      "github",
+        "remote":      "gh",
         "repository":  "wolverine2k/android_kernel_oppo_n1",
         "target_path": "kernel/oppo/n1",
         "revision":    "cm-13.0"
@@ -18,7 +18,7 @@
         "revision":    "cm-13.0"
     },
     {
-        "remote":      "github",
+        "remote":      "gh",
         "repository":  "wolverine2k/android_device_oppo_common",
         "target_path": "device/oppo/common",
         "revision":    "cm-13.0"
@@ -30,13 +30,13 @@
         "revision":    "cm-13.0"
     },  
     {
-        "remote":      "github",
+        "remote":      "gh",
         "repository":  "AOSPA-legacy/android_frameworks_opt_connectivity",
         "target_path": "frameworks/opt/connectivity",
         "revision":    "kitkat"
     },
     {
-        "remote":      "github",
+        "remote":      "gh",
         "repository":  "TheMuppets/proprietary_vendor_oppo",
         "target_path": "vendor/oppo",
         "revision":    "cm-13.0"
