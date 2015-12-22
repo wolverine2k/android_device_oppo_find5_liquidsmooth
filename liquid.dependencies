@@ -18,10 +18,10 @@
         "revision":    "cm-13.0"
     },
     {
-        "remote":      "gh",
-        "repository":  "wolverine2k/android_device_oppo_common",
+        "remote":      "lsd",
+        "repository":  "android_device_oppo_common",
         "target_path": "device/oppo/common",
-        "revision":    "cm-13.0"
+        "revision":    "5.1"
     },
     {
         "remote":      "cm",
