@@ -25,8 +25,8 @@ TARGET_BOARD_INFO_FILE := device/oppo/find5/board-info.txt
 TARGET_KERNEL_CONFIG := cyanogenmod_x909_defconfig
 
 #GCC
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7-sm
-TARGET_GCC_VERSION_AND := 4.8-sm
+#TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7-sm
+#TARGET_GCC_VERSION_AND := 4.7-sm
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/oppo/find5/bluetooth
