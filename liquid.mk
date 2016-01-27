@@ -15,5 +15,5 @@ PRODUCT_MANUFACTURER := OPPO
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_PRODUCT=find5 \
     TARGET_DEVICE=find5 \
-    BUILD_FINGERPRINT="6.0.1/MRA58V/20151223:user/release-keys" \
-    PRIVATE_BUILD_DESC="wolverine2k 6.0.1 MRA58V eng.root.20151223 release-keys"
+    BUILD_FINGERPRINT="6.0.1/MMB29M/20151223:user/release-keys" \
+    PRIVATE_BUILD_DESC="wolverine2k 6.0.1 MMB29M user-debug.20160126 release-keys"

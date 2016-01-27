@@ -34,6 +34,9 @@ TARGET_USES_LOGD := false
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/oppo/find5/bluetooth
 
+# Camera
+TARGET_RELEASE_CPPFLAGS += -DNEEDS_VECTORIMPL_SYMBOLS
+
 # CM  Hardware
 BOARD_HARDWARE_CLASS += device/oppo/find5/cmhw
 
